@@ -1,0 +1,6 @@
+name,model,loss,loss_baseline,sMAPE,MASE,OWA,train_time,epochs,time_per_epoch
+TCN_Quarterly_baseline_mse-seasonal-naive,TCN,baseline_mse,seasonal-naive,14.125011145948857,2.035469685982782,1.383494736925694,742.6759552955627,219,3.3912144077422957
+TCN_Quarterly_baseline_mse-seasonal-naive,TCN,baseline_mse,seasonal-naive,14.230455491743543,2.0622555178728086,1.3980486233609106,767.2680442333221,228,3.3652107203215884
+TCN_Quarterly_baseline_mse-seasonal-naive,TCN,baseline_mse,seasonal-naive,14.3115610411218,2.0814057636949324,1.4087134618669848,762.37362408638,226,3.373334619851239
+TCN_Quarterly_baseline_mse-seasonal-naive,TCN,baseline_mse,seasonal-naive,14.275910047331724,2.06783442089776,1.4021466123742048,791.2852354049683,235,3.3671712144892267
+TCN_Quarterly_baseline_mse-seasonal-naive,TCN,baseline_mse,seasonal-naive,14.237489110555531,2.057219346528332,1.3965318312592259,793.093475818634,233,3.403834660165811

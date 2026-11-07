@@ -1,0 +1,5 @@
+{
+  "fold0_validation_accuracy": 0.8828333333333334,
+  "fold1_validation_accuracy": 0.8778333333333334,
+  "assembled_validation_accuracy": 0.8805
+}

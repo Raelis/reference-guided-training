@@ -1,0 +1,7 @@
+{
+  "architecture": "bidirectional-lstm-1-embeddings-2-5-fc-20-shared-offset",
+  "training_steps": 30000,
+  "sample_size": 100000,
+  "seed": 42,
+  "validation_mse": 0.09519275898182115
+}

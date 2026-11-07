@@ -1,0 +1,2 @@
+name,model,type,state_loaded,loss,noise_ratio,guide_model,guide_noise_ratio,loss-value,log-loss,accuracy,precision,recall,balanced_accuracy,mcc,cohen_kappa,auc_roc,pr_auc,f1_score,run_id,seed,lr,lambda,delta,gamma,selected_trial,best_epoch
+ResNet20_n0.40_erm-crossfit_fold0,ResNet20,baseline,False,ce,0.4,,,0.7049801759719848,0.713267170939526,0.8819,0.8859143212280637,0.8818999999999999,0.8818999999999999,0.8694002690424567,0.8687777777777778,0.9871122055555555,0.9354349199150725,0.8812423644089822,1,43,0.005,,,,,54

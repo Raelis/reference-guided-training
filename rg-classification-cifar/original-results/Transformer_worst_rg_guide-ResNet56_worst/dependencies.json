@@ -1,0 +1,11 @@
+{
+  "architecture_params": {
+    "dropout": 0.06061853422409503,
+    "hidden_size": 128,
+    "mlp_ratio": 2,
+    "num_attention_heads": 4,
+    "num_hidden_layers": 3
+  },
+  "guide_checkpoint_sha256": "13214e22b321555ee20f6b59a9d1177d10425464d3e6f353c9f6e493ee16bfb9",
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling"
+}

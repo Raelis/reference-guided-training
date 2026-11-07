@@ -51,12 +51,6 @@ The experiments investigate the effectiveness of reference-guided optimization a
 
 This GitHub repository serves as the main development repository for Reference-Guided Training. The implementation may evolve through improvements, bug fixes, and additional experiments.
 
-The exact experimental version associated with the NeurIPS 2026 publication will be preserved separately on Zenodo.
-
-**Zenodo archive:** To be added.
-
-For reproducing the results reported in the paper, use the archived experimental version once available.
-
 ## Citation
 
 If you use Reference-Guided Training (RG) or build upon this work in your research, please cite our NeurIPS 2026 paper:

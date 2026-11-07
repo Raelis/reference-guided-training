@@ -1,0 +1,46 @@
+# Python bytecode and development caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+
+# Local environments and machine-specific settings
+.venv/
+venv/
+env/
+envs/
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# New training outputs (published records remain in original-results/)
+/results/
+/exports/
+/logs/
+/checkpoints/
+/runs/
+/wandb/
+/lightning_logs/
+*.log
+
+# Model checkpoints, not included in the public release
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Full downloaded datasets (keep any dataset README)
+/data/*
+!/data/README.txt
+!/data/README.md
+
+# Generated release archives
+/*.zip

@@ -1,0 +1,10 @@
+{
+  "architecture_params": {
+    "dropout": 0.06061853422409503,
+    "hidden_size": 128,
+    "mlp_ratio": 2,
+    "num_attention_heads": 4,
+    "num_hidden_layers": 3
+  },
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling"
+}

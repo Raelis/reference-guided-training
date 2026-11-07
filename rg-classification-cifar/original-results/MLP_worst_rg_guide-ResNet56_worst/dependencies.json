@@ -1,0 +1,9 @@
+{
+  "architecture_params": {
+    "mlp_dropout": 0.07086288565665866,
+    "mlp_hidden_0": 256,
+    "mlp_layers": 1
+  },
+  "guide_checkpoint_sha256": "13214e22b321555ee20f6b59a9d1177d10425464d3e6f353c9f6e493ee16bfb9",
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling"
+}

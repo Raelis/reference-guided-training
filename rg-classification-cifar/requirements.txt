@@ -1,0 +1,12 @@
+# CIFAR-10N experiment dependencies
+
+matplotlib==3.9.1
+numpy==2.0.2
+optuna==4.5.0
+pandas==2.3.1
+pyarrow==21.0.0
+scikit-learn==1.6.1
+scipy==1.13.1
+torch==2.8.0
+torchvision==0.23.0
+transformers==4.55.4

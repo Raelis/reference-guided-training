@@ -1,0 +1,8 @@
+{
+  "architecture_params": {
+    "mlp_dropout": 0.20188621297535958,
+    "mlp_hidden_0": 256,
+    "mlp_layers": 1
+  },
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling"
+}

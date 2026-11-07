@@ -1,0 +1,12 @@
+{
+  "architecture_params": {
+    "cnn_channel_l0": 64,
+    "cnn_channel_l1": 128,
+    "cnn_channel_l2": 128,
+    "cnn_dropout": 0.01258335530624071,
+    "cnn_kernel": 3,
+    "dense_dim": 64
+  },
+  "guide_checkpoint_sha256": "a1275d53918ab521d196745d8f0e651719e358a2203b4ac9ea24f457a93c8248",
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling"
+}

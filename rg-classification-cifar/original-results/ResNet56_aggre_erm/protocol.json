@@ -1,0 +1,24 @@
+{
+  "protocol": "cifar10n_erm_rg_categorical_lr_no_scaling",
+  "model": "ResNet56",
+  "noise": "aggre",
+  "guide_noise": null,
+  "method": "guide",
+  "epochs": 150,
+  "trials": 20,
+  "runs": 5,
+  "learning_rate_policy": "optuna_direct_no_scaling",
+  "lr_choices": [
+    0.001,
+    0.005,
+    0.01
+  ],
+  "stage1_lr": 0.01,
+  "stage1_epochs": 30,
+  "stage1_patience": 15,
+  "batch_size": 256,
+  "weight_decay": 0.0005,
+  "optimizer": "sgd_momentum_0.9",
+  "scheduler": "cosine_eta_min_1e-5",
+  "data_split": "cifar10_first_45000_train_last_5000_clean_validation"
+}
